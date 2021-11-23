@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/GetNewsify/static/css/main.2122f14c.chunk.css",
+    "main.js": "/GetNewsify/static/js/main.5cef0654.chunk.js",
+    "main.js.map": "/GetNewsify/static/js/main.5cef0654.chunk.js.map",
+    "runtime-main.js": "/GetNewsify/static/js/runtime-main.639a257f.js",
+    "runtime-main.js.map": "/GetNewsify/static/js/runtime-main.639a257f.js.map",
+    "static/js/2.c8bd641e.chunk.js": "/GetNewsify/static/js/2.c8bd641e.chunk.js",
+    "static/js/2.c8bd641e.chunk.js.map": "/GetNewsify/static/js/2.c8bd641e.chunk.js.map",
+    "static/js/3.937ffe30.chunk.js": "/GetNewsify/static/js/3.937ffe30.chunk.js",
+    "static/js/3.937ffe30.chunk.js.map": "/GetNewsify/static/js/3.937ffe30.chunk.js.map",
+    "index.html": "/GetNewsify/index.html",
+    "static/css/main.2122f14c.chunk.css.map": "/GetNewsify/static/css/main.2122f14c.chunk.css.map",
+    "static/js/2.c8bd641e.chunk.js.LICENSE.txt": "/GetNewsify/static/js/2.c8bd641e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.639a257f.js",
+    "static/js/2.c8bd641e.chunk.js",
+    "static/css/main.2122f14c.chunk.css",
+    "static/js/main.5cef0654.chunk.js"
+  ]
+}
